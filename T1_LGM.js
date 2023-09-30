@@ -14,7 +14,7 @@ window.onscroll = function() {
 
 }
 
-// Side NavIgation Menu JS Code
+// Side Navigation Menu JS Code
 let body = document.querySelector("body");
 let navBar = document.querySelector(".navbar");
 let menuBtn = document.querySelector(".menu-btn");
